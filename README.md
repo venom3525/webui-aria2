@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/venom3525/webui-aria2/tree/master)
 # WebUI-Aria2
 
 ![Main interface](/screenshots/overview.png?raw=true)
